@@ -1,0 +1,1 @@
+const e={key:"v-4d2fea7f",path:"/en/dbc-democracy/",title:"DBC Democracy",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1642477494e3,contributors:[{name:"kaigedong",email:"dongkaige@gmail.com",commits:2}]},filePathRelative:"en/dbc-democracy/README.md"};export{e as data};

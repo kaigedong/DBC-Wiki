@@ -1,0 +1,1 @@
+const t={key:"v-c2a8a080",path:"/en/dbc-introduction/",title:"Introduction of DBC",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1642404397e3,contributors:[{name:"kaigedong",email:"dongkaige@gmail.com",commits:1}]},filePathRelative:"en/dbc-introduction/README.md"};export{t as data};

@@ -1,0 +1,1 @@
+const e={key:"v-a601ed2a",path:"/dbc-democracy/",title:"\u7406\u4E8B\u4F1A\u793E\u533A\u81EA\u6CBB",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1640862685e3,contributors:[{name:"kaigedong",email:"dongkaige@gmail.com",commits:4}]},filePathRelative:"dbc-democracy/README.md"};export{e as data};
